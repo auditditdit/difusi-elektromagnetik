@@ -1,1 +1,1 @@
-# difusi-elektromagnetik
+# difusi-elektromagnetik-numerik
